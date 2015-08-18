@@ -1,0 +1,81 @@
+.navbar-brand {
+    float: left;
+    height: 50px;
+    font-size: 18px;
+    line-height: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top:0px;
+}
+
+p.navbar-text {
+	font-weight: 700;
+	font-size: 14px;
+	margin-left: -10px;
+	margin-right: 70px;
+
+}
+
+.page-header {
+    padding-bottom: 9px;
+    margin: 40px 10px 20px;
+    border-bottom: 1px solid #EEE;
+}
+
+.btn-social-icon.btn-sm.btn-linkedin {
+    height: 30px;
+    width: 30px;
+    padding-left: 0px;
+    padding-right: 0px;
+    position: absolute;
+    top: 10px;
+    right:100px;
+}
+
+.btn-social-icon.btn-sm.btn-twitter {
+    height: 30px;
+    width: 30px;
+    padding-left: 0px;
+    padding-right: 0px;
+    position: absolute;
+    top: 10px;
+    right:60px;
+}
+
+.btn-social-icon.btn-sm.btn-facebook{
+    height: 30px;
+    width: 30px;
+    padding-left: 0px;
+    padding-right: 0px;
+    position: absolute;
+    top: 10px;
+    right:20px;
+}
+
+.fa {
+	color:white;
+}
+
+.fa:hover {
+	color:black;
+}
+
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 50px;
+	background-color: #000000;
+    clear: both;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    color: #221a95;
+    background-color: transparent;
+}
+
+.dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover {
+    color: #221a95;
+    text-decoration: none;
+    background-color: #F5F5F5;
+}
